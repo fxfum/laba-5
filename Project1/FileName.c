@@ -27,5 +27,9 @@ void main()
 	}
 	printf("Большее число  = %d\n", max);
 	printf("Меньше число = %d\n", min);
+	printf("Большее число  = %d\n", max);
+	printf("Меньше число = %d\n", min);
+	printf("Большее число  = %d\n", max);
+	printf("Меньше число = %d\n", min);
 
 }
