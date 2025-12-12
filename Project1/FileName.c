@@ -12,6 +12,10 @@ void main()
 
 	//SetConsoleCP(1251);
 	//SetConsoleOutputCP(1251);
+	//SetConsoleCP(1251);
+	//SetConsoleOutputCP(1251);
+	//SetConsoleCP(1251);
+	//SetConsoleOutputCP(1251);
 
 	printf("¬ведите первое число = ");
 	scanf_s("%d", &a);
